@@ -1,2 +1,1 @@
-Luan         Michell
-Luan Amaral  Michell Dias
+	Site com objetivo de listar os campeões, itens, builds, counters e atualizações do jogo.
