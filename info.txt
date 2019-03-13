@@ -1,1 +1,1 @@
-	Site com objetivo de listar os campeões, itens, builds, counters e atualizações do jogo.
+	Site com objetivo de listar os campeões, itens, builds, counters e atualizações do jogo como novos campeões, balanceamento e novas skins.
